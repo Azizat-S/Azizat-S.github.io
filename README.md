@@ -1,18 +1,19 @@
-# [Your Name] - Data Analysis Portfolio
+# Azizat Sagaya - Data Analysis Portfolio
 
-Welcome! This repository contains the complete template for a professional, one-page data analysis portfolio website, hosted for free on GitHub Pages.
+Hi, I’m Azizat Sagaya 👋 I turn data into clear insights that help people understand problems and make informed decisions.
 
-## About This Portfolio Template
+## About Me
+I have a master’s degree in Computational Sciences and experience across government ICT, banking operations, and healthcare administration. Those roles taught me to ask practical questions, pay attention to detail, and present information in a way people can use.
+I enjoy working with messy data, finding patterns, and building dashboards that make the results easy to explore. Outside of work, I love solving puzzles—especially the “aha!” moment when the pieces come together.
 
-This portfolio is designed to demonstrate skills in:
-- Data visualization and storytelling
-- Data modeling and analysis
-- Creating interactive, professional dashboards
-- Transforming complex data into actionable insights
-
+What I Work With:
+Data analysis: Excel, SQL, PostgreSQL
+Dashboards and visualization: Power BI, Excel
+Beyond the tools: Data cleaning, reporting, process improvement, and communicating insights
 ## 🚀 Projects
 
-This template is set up to showcase your best work. You can easily customize the project cards in the `index.html` file.
+This is where I share my analytics projects: the questions I explored, how I worked with the data, and what I learned. Each project is an opportunity to turn a dataset into a story someone can understand and use.
+You can easily customize the project cards in the `index.html` file.
 
 ### Project Title One
 *A brief description of your project, the tools used, and the key insights derived.*
