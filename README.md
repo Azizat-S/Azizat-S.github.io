@@ -7,9 +7,13 @@ I have a master’s degree in Computational Sciences and experience across gover
 I enjoy working with messy data, finding patterns, and building dashboards that make the results easy to explore. Outside of work, I love solving puzzles—especially the “aha!” moment when the pieces come together.
 
 What I Work With:
+
 Data analysis: Excel, SQL, PostgreSQL
+
 Dashboards and visualization: Power BI, Excel
+
 Beyond the tools: Data cleaning, reporting, process improvement, and communicating insights
+
 ## 🚀 Projects
 
 This is where I share my analytics projects: the questions I explored, how I worked with the data, and what I learned. Each project is an opportunity to turn a dataset into a story someone can understand and use.
